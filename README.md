@@ -10,5 +10,5 @@ convert wireframe to html
 
 ![homepage](homepage.png)
 ![Products page](Products%20page.png)
-![company](README.md)
+![company](company.png)
 ![more](more.png)
